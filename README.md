@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **jadhavaditya126@gmail.com**
 
+<img src="https://github-readme-stats.vercel.app/api?username=adityaaj18&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aditya-jadhav-b08a3a1b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-jadhav-b08a3a1b4" height="30" width="40" /></a>
@@ -20,7 +22,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaaj18&show_icons=true&locale=en&layout=compact" alt="adityaaj18" /></p>
-<br>
-<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityaaj18&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
