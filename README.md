@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaaj18&label=Profile%20views&color=0e75b6&style=flat" alt="adityaaj18" /> </p>
 
-- 🌱 I’m currently learning **MERN stack**
-
 - 📫 How to reach me **jadhavaditya033@gmail.com**
 
 <img src="https://github-readme-stats.vercel.app/api?username=adityaaj18&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
